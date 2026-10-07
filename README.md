@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,100:7C83FF&section=header&text=Nama%20Kamu&fontSize=52&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer&descSize=18&descColor=C9D1D9&descAlignY=60" alt="Banner profil" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,100:7C83FF&section=header&text=Michelle%20Wanlin Amaral&fontSize=52&fontColor=E6EDF3&fontAlignY=38&desc=Technology%20Enthusiast&descSize=18&descColor=C9D1D9&descAlignY=60" alt="Banner profil" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=20&duration=3200&pause=1400&color=7C83FF&center=true&vCenter=true&width=560&height=40&lines=Membangun+produk+web+yang+cepat+dan+rapi;Menulis+kode+yang+mudah+dirawat;Selalu+belajar%2C+selalu+mengirim+(ship)" alt="Teks yang berganti: membangun produk web yang cepat dan rapi" />
 
