@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Abstract AI research banner" />
+<img src="./Midnight Neural Network Glow.png" width="100%" alt="Abstract AI research banner" />
 
 # Hi, I'm Michelle 👋
 
@@ -13,7 +13,7 @@ Exploring Artificial Intelligence, learning through experimentation,
 and building a foundation for reliable intelligent systems.
 
 [GitHub](https://github.com/michellecrispy) ·
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/michelle-wanlin-amaral-600179326/)) ·
+[LinkedIn](https://www.linkedin.com/in/michelle-wanlin-amaral-600179326/) ·
 [Email](mailto:michellewanlinamaral@gmail.com)
 
 </div>
